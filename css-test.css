@@ -6,13 +6,25 @@
 
 body {
 	height: 1200px;
-    font-size: 14px;
-    font-family: arial;
+    font-size: 24px;
+    font-family: sans-serif;
     color: black;
 }
 
-.header {
-	font-size: 18px;
+.First-Test {
+	color:blue;
+	font-size:14;
+	font-family:arial;
+}
+
+.First-Test h1 {
+	color:green;
+	font-size: 32;
+	font-family:arial;
+}
+
+.info {
+	color: pink;
+	font-size: 10;
 	font-family: sans-serif;
-	color: red;
 }
