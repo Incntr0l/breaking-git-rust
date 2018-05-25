@@ -13,18 +13,29 @@ body {
 
 .First-Test {
 	color:blue;
-	font-size:14;
+	font-size:18px;
 	font-family:arial;
 }
 
 .First-Test h1 {
 	color:green;
-	font-size: 32;
+	font-size: 32px;
 	font-family:arial;
 }
 
 .info {
 	color: pink;
-	font-size: 10;
+	font-size: 18px;
 	font-family: sans-serif;
+}
+
+.Last-Part {
+	color: gray;
+	font-size: 14px;
+	font-family: Courier New;
+}
+
+.Last-Part h1 {
+	color: black;
+	font-size: 24px;
 }
